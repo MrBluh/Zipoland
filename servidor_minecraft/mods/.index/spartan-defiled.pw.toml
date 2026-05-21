@@ -1,0 +1,16 @@
+filename = 'spartandefiled-1.0.jar'
+name = 'Spartan Defiled'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cbd2a2681df91f979e70f2d74f3a9f79a346c4d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3591538
+project-id = 563768

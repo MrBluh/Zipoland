@@ -1,0 +1,16 @@
+filename = 'xptome-1.12.2-v1.1.6.jar'
+name = 'XP Tome'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e4116cbe2afe5e8025a0e3596e1f8189242c3a38'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3007206
+project-id = 344787

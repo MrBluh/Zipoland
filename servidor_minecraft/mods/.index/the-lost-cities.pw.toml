@@ -1,0 +1,16 @@
+filename = 'lostcities-1.12-2.0.22.jar'
+name = 'The Lost Cities'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcea94d4a3d05f8282e014fcfe69048feafe4ce0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2861574
+project-id = 269024

@@ -1,0 +1,9 @@
+VillageTriplets,4822,4836,-1405,-1391
+WoodWallRemains,4867,4875,-1504,-1476
+VillageGuardTower,4792,4804,-1381,-1369
+VillageHouseRich,4857,4876,-1411,-1396
+VillageInn,4845,4865,-1381,-1354
+StonePlantBoulder,4620,4630,-1375,-1365
+StonePlantMound1,4892,4898,-1421,-1415
+ShrineSmallFire,4609,4619,-1378,-1368
+StonePlantBoulder,4623,4633,-1342,-1332

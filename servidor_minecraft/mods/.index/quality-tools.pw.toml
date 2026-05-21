@@ -1,0 +1,16 @@
+filename = 'QualityTools-1.0.7_for_1.12.2.jar'
+name = 'Quality Tools'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd48b86bfb5ca622a71332b7b3bffeff2b1729a04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2732994
+project-id = 264756

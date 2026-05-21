@@ -1,0 +1,16 @@
+filename = 'phosphor-1.12.2-0.2.6+build50-universal.jar'
+name = 'Phosphor (Forge)'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd4781f46fb18f0c6ed03893465244e7ec7dc8b8c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2747710
+project-id = 318255

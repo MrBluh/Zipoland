@@ -1,0 +1,16 @@
+filename = 'HelpFixer-1.12.1-1.5.18.jar'
+name = 'HelpFixer'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'db399136a8f16fc1b42f130d245e3f524835d5f0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2479308
+project-id = 223797

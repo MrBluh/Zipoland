@@ -1,0 +1,2 @@
+StonePlantBoulder,12264,12274,-4965,-4955
+SmallWoodenCottage,12195,12206,-4968,-4960

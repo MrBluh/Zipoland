@@ -1,0 +1,16 @@
+filename = 'playerbosses-1.12.2-1.1.0.jar'
+name = 'Giant Player Boss'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'f96f0a60e9d3e81fabca03da4f9f8607e24e57c5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2733042
+project-id = 307605

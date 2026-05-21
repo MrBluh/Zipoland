@@ -1,0 +1,16 @@
+filename = 'RoguelikeDungeonsFnarEdition-1.12.2-2.4.4.jar'
+name = "Roguelike Dungeons -- Fnar's Edition"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '68d534e18ed992c756f47ef271d8dd86f417731f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4414973
+project-id = 373157

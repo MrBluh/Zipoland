@@ -1,0 +1,16 @@
+filename = 'pigstep-1.12.jar'
+name = 'Pigstep'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1eb2a9809d9d650264d547a50d15fb19052fce43'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2951925
+project-id = 381953

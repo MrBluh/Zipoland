@@ -1,0 +1,16 @@
+filename = 'PortalDupeBegone-1.0.0.jar'
+name = 'PortalDupeBegone'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bda7454ad62b7b756a91572124413cfaa7aefb2d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3987130
+project-id = 676133

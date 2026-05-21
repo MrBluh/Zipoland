@@ -1,0 +1,16 @@
+filename = 'roughTweaks0.2.4-1.12.2.jar'
+name = 'Rough Tweaks'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15762393103157a5aac6c8ea8d69c8c4bc42ee77'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2573301
+project-id = 251670

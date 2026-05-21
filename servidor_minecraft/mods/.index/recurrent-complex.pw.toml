@@ -1,0 +1,16 @@
+filename = 'RecurrentComplex-1.4.8.4.jar'
+name = 'Recurrent Complex'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '26c2f8f1d3581ceb9c48e56d670fec8a77c93a02'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4356582
+project-id = 223150

@@ -1,0 +1,16 @@
+filename = 'MultiMine-1.12.2.jar'
+name = 'Multi Mine'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd817a648e3d4f26d2b281824a5a9a243da68c0e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2790649
+project-id = 227887

@@ -1,0 +1,6 @@
+ShrineSmallAir,64,72,-189,-181
+DinosaurSkeleton,54,63,-150,-104
+VillageForgeLarge,319,335,43,55
+VillageWoodMill,342,358,26,39
+VillageInn,363,390,46,66
+VillageGuardTower,342,354,11,23

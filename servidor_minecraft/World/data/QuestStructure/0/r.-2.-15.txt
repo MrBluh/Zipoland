@@ -1,0 +1,10 @@
+WoodWallRemains,-1065,-1037,-8175,-8167
+ShrineSmallAir,-1213,-1205,-8182,-8174
+AbandonedWoodTower,-1344,-1314,-8143,-8107
+DinosaurSkull,-1215,-1196,-8072,-8061
+VillageGuardTower,-1477,-1465,-7991,-7979
+SmallWoodenCottage,-1267,-1259,-7984,-7973
+VillageInn,-1477,-1450,-7975,-7955
+VillageWoodMill,-1496,-1483,-7962,-7946
+SmallAbandonedMine,-1193,-1178,-7966,-7941
+VillageForgeLarge,-1514,-1502,-7992,-7976

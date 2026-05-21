@@ -1,0 +1,16 @@
+filename = 'FriendlyEndermite_v1.0.1_mc1.12.2.jar'
+name = 'Friendermite'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b4965430799632c8f9f1231ee71e9740752e64e3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2834985
+project-id = 350337

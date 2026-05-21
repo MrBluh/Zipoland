@@ -1,0 +1,16 @@
+filename = 'RealisticTorches-1.12.2-2.1.2.jar'
+name = 'Realistic Torches'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '03100cc1b2a29013f815bce0fc5e7baa23fdbeff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3152820
+project-id = 235729

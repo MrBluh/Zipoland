@@ -1,0 +1,10 @@
+VillageSavannaTannery,12347,12370,-4821,-4810
+FallenPalmTree,12418,12422,-4820,-4810
+VillageSavannaTannery,12397,12408,-4857,-4834
+VillageWoodMill,12378,12391,-4858,-4842
+VillageSavannaStonemason,12302,12318,-4886,-4871
+VillageTriplets,12338,12352,-4886,-4872
+VillageSavannaLibrary,12374,12385,-4877,-4867
+MeteorSite,12467,12482,-4801,-4771
+VillageGuardTower,12374,12386,-4894,-4882
+VillageSavannaKitchen,12397,12409,-4887,-4877

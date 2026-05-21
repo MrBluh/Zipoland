@@ -1,0 +1,16 @@
+filename = 'Locks-1.12.2-3.0.0.jar'
+name = 'Locks'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3ab3096add733c306bc9996b717f3c814e9f47d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3568569
+project-id = 253456

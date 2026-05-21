@@ -1,0 +1,16 @@
+filename = 'XPFromHarvest-1.12.2-1.2.0.jar'
+name = 'XP From Harvest'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '17d75a73915b4a9691dba91831f685d5d6fc9be7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2960301
+project-id = 289397

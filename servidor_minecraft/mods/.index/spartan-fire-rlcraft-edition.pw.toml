@@ -1,0 +1,16 @@
+filename = 'spartanfire_rlcraft-1.1.0.jar'
+name = 'Spartan and Fire: RLCraft Edition'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c369324f54c81b3204aa109f6e6e181cbd47b113'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4434589
+project-id = 676392

@@ -1,0 +1,12 @@
+StoneLeafMound,8264,8271,-261,-252
+StonePlantMound4,8297,8304,-281,-274
+StonePlantMound1,8309,8315,-242,-236
+StoneLeafMound,8258,8267,-329,-322
+ClayWaterMound,8191,8198,-345,-337
+StonePlantMound3,8219,8230,-353,-344
+StonePlantMound,8293,8298,-339,-334
+MeteorSite,8283,8313,-368,-353
+StonePlantBoulder,8197,8207,-375,-365
+StonePlantMound2,8325,8338,-65,-53
+ShrineSmallFire,8394,8404,-228,-218
+StoneBoulder,8394,8403,-175,-166

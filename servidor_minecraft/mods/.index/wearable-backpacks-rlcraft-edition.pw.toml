@@ -1,0 +1,16 @@
+filename = 'WearableBackpacks-RLCraft-1.12.2-3.2.6.jar'
+name = 'Wearable Backpacks: RLCraft Edition'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2189a5d62455221cbce7f83b1839ebfe5553cd98'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4203074
+project-id = 684624

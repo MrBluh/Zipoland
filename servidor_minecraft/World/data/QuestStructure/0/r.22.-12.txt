@@ -1,0 +1,4 @@
+StonePlantMound1,11450,11456,-6292,-6286
+VillageTriplets,11638,11652,-6351,-6337
+VillageSavannaTannery,11616,11639,-6307,-6296
+VillageSavannaStonemason,11643,11659,-6286,-6271

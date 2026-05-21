@@ -1,0 +1,16 @@
+filename = 'RLMixins-1.2.15.jar'
+name = 'RLMixins'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '28fa0f389d8999218f428c970e1a036cff9eb111'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4611530
+project-id = 711730

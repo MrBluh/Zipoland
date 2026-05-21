@@ -1,0 +1,16 @@
+filename = 'BQTweaker-1.3.5.jar'
+name = 'Better Questing Tweaker (BQTweaker)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dbc3c497e3ad604c4f02f66b2e919cda632e72fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4448659
+project-id = 423758

@@ -1,0 +1,17 @@
+AbandonedWoodTower,8160,8196,-214,-184
+StonePlantMound2,8146,8158,-235,-222
+ShrineSmallAir,8177,8185,-145,-137
+StonePlantMound1,8188,8194,-355,-349
+StoneBoulder,8105,8114,-350,-341
+StoneBoulder,8104,8113,-388,-379
+DinosaurSkull,8138,8149,-67,-48
+StoneBoulder,8028,8037,-276,-267
+ShrineSmallAir,8020,8028,-128,-120
+StonePlantMound2,7845,7858,-411,-399
+StoneBoulder,7856,7865,-393,-384
+StonePlantMound2,7900,7913,-497,-485
+SpiderPit,7823,7833,-332,-323
+StonePlantBoulder,7877,7887,-350,-340
+ShrineSmallFire,7861,7871,-348,-338
+StonePlantMound,7931,7936,-401,-396
+StonePlantMound,7929,7934,-374,-369

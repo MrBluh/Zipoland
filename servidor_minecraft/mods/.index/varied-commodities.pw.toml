@@ -1,0 +1,16 @@
+filename = 'VariedCommodities_1.12.2-(31Mar23).jar'
+name = 'Varied Commodities'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b51e7d731d347eed88c5d33969bbfd9bd4a43c60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4466956
+project-id = 257777

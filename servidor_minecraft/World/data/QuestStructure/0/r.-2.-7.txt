@@ -1,0 +1,5 @@
+StonePlantMound4,-1117,-1110,-4073,-4066
+StonePlantMound4,-1147,-1140,-4007,-4000
+StonePlantMound2,-1141,-1129,-3991,-3978
+StonePlantMound2,-1255,-1242,-3964,-3952
+ShrineSmallAir,-1266,-1258,-4091,-4083

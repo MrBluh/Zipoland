@@ -1,0 +1,16 @@
+filename = 'classyhats-1.6.0.jar'
+name = 'Classy Hats'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8c7f05c8fbd2cc1dbbb591310cfde12d8b5fabbc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2722339
+project-id = 281125

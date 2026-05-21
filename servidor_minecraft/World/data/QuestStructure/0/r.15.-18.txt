@@ -1,0 +1,8 @@
+StonePlantMound1,7920,7926,-9459,-9453
+StonePlantBoulder,7892,7902,-9465,-9455
+MeteorSite,7938,7953,-9317,-9287
+StonePlantMound3,7817,7826,-9569,-9558
+SmallAbandonedMine,7774,7799,-9397,-9382
+StonePlantMound2,7771,7784,-9443,-9431
+SmallWoodenCottage2,7758,7766,-9430,-9422
+StonePlantMound1,8029,8035,-9672,-9666

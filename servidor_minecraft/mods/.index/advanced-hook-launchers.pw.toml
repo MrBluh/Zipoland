@@ -1,0 +1,16 @@
+filename = 'AdHooks-1.12.2-3.3.1.0-build.0626.jar'
+name = 'Advanced Hook Launchers'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ffb66aaa3c08d718fad6250415cd94b8b9c74645'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3554966
+project-id = 244849

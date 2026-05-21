@@ -1,0 +1,16 @@
+filename = 'Charm-1.12.2-1.4.1.jar'
+name = 'Charm'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0afddc46fe43970d4586f99f3266279f262f6de5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3146596
+project-id = 318872

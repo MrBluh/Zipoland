@@ -1,0 +1,16 @@
+filename = 'anvilpatch-1.1.1.jar'
+name = 'Anvil Patch - lawful'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2557a1d6718e9e5290f373d7c19397e7c6e81e51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3602349
+project-id = 320093

@@ -1,0 +1,16 @@
+filename = 'DynamicSurroundings-1.12.2-3.6.2.1.jar'
+name = 'Dynamic Surroundings'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd264b6ac5970c72bc6d4bd00ba550dc076270b50'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3098835
+project-id = 238891

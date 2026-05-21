@@ -1,0 +1,16 @@
+filename = 'YungsLaw-1.12.2-1.0.4.jar'
+name = "YUNG's Law (Forge)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6538598da3c76de971d07cdcca270894b6e84180'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3113274
+project-id = 399377

@@ -1,0 +1,4 @@
+StoneLeafMound,-1178,-1169,-4188,-4181
+StonePlantMound,-1143,-1138,-4248,-4243
+StonePlantMound1,-1081,-1075,-4264,-4258
+BrickHenge,-1255,-1239,-4226,-4210

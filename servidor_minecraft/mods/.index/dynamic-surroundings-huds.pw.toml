@@ -1,0 +1,16 @@
+filename = 'DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar'
+name = 'Dynamic Surroundings: HUDs'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '017d7b1ded52ea61561457d29c337d065c2dd8ff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2820653
+project-id = 309318

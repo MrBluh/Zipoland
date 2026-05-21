@@ -1,0 +1,16 @@
+filename = 'MaterialTweaker-1.1.1.jar'
+name = 'MaterialTweaker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b49af2a881da71e80dbd157b59e1a1b40c9c77dc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4178657
+project-id = 679116

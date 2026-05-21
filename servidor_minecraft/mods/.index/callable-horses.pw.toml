@@ -1,0 +1,16 @@
+filename = 'callablehorses-1.12.2-1.1.1.jar'
+name = 'Callable Horses'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5be26cff21c91e280f9717202585d263483c45d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3568565
+project-id = 331746

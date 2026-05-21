@@ -1,0 +1,16 @@
+filename = 'SoManyEnchantments-0.5.5.jar'
+name = 'So Many Enchantments'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '729d99840e6baf0a42e2c512f92231729fec55d0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3574478
+project-id = 267035

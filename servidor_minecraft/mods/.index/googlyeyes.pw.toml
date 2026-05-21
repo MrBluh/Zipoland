@@ -1,0 +1,16 @@
+filename = 'GooglyEyes-1.12.2-7.1.1.jar'
+name = 'GooglyEyes '
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5d6b6038acc27a289fc31dfc0efdcc7fe412f10c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2801268
+project-id = 252188

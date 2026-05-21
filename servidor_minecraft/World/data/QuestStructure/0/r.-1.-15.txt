@@ -1,0 +1,2 @@
+UndergroundCultChamber,-641,-609,-8201,-8159
+SmallWoodenCottage2,-527,-519,-8160,-8152

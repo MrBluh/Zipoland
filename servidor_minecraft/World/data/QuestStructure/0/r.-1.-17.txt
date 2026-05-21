@@ -1,0 +1,14 @@
+StoneLeafMound,-997,-990,-8811,-8802
+StoneBoulder,-889,-880,-8917,-8908
+StoneLeafMound,-990,-983,-8998,-8989
+StonePlantMound1,-952,-946,-9038,-9032
+StoneLeafMound,-955,-948,-9096,-9087
+StonePlantMound1,-928,-922,-9003,-8997
+StonePlantMound3,-846,-837,-9144,-9133
+StoneBoulder,-836,-827,-8972,-8963
+StonePlantMound,-981,-976,-9141,-9136
+MysticalTree,-955,-940,-9168,-9152
+StoneBoulder,-819,-810,-9083,-9074
+StonePlantMound2,-808,-795,-8979,-8967
+SmallWoodenCottage,-767,-759,-8742,-8731
+StoneLeafMound,-752,-743,-8833,-8826

@@ -1,0 +1,14 @@
+StonePlantMound4,3150,3157,-7006,-6999
+StonePlantMound2,3165,3178,-7049,-7037
+StonePlantMound4,3106,3113,-7082,-7075
+StonePlantMound1,3152,3158,-7096,-7090
+SmallFortRuins,3228,3260,-7000,-6970
+StonePlantMound,3235,3240,-6899,-6894
+StonePlantMound4,3224,3231,-6872,-6865
+ShrineSmallAir,3234,3242,-6871,-6863
+ForestBeacon,3272,3280,-6891,-6883
+StonePlantMound2,3278,3291,-6876,-6864
+StonePlantMound3,3298,3309,-6892,-6883
+WoodWallRemains,3195,3203,-6812,-6784
+WoodThorn,3214,3225,-6788,-6777
+StonePlantBoulder,3189,3199,-6776,-6766

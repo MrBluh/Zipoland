@@ -1,0 +1,16 @@
+filename = 'FishingMadeBetter-1.12.2-2.2.6.jar'
+name = 'Fishing Made Better'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7c12a9e016b1015dd30c1965400a3af2fc8e9194'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4389339
+project-id = 306780

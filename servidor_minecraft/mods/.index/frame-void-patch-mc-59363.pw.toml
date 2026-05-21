@@ -1,0 +1,16 @@
+filename = 'framevoidpatch-1.0.0.jar'
+name = 'Frame Void Patch (MC-59363)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0e9da52cb77ad1f15e5b1f264fa1377b2dca6d9e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4102778
+project-id = 709188

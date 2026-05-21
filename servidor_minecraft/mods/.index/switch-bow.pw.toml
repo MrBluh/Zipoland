@@ -1,0 +1,16 @@
+filename = 'switchbow-1.6.8.jar'
+name = 'Switch-Bow'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd115c9d86fc9a47c685e19c4ecf04d9cfa4fc88c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3561087
+project-id = 257820

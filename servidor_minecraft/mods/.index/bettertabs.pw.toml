@@ -1,0 +1,16 @@
+filename = 'BetterTabs-1.0.4.jar'
+name = 'BetterTabs'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcdbfc5546c876799f1fa7dfb2eb5eeebb0f3bf4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4448655
+project-id = 407190

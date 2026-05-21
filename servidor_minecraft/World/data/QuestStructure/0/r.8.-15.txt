@@ -1,0 +1,4 @@
+ClayWaterMound,4166,4174,-7868,-7861
+StonePlantMound2,4175,4187,-7897,-7884
+StonePlantMound,4169,4174,-7794,-7789
+DinosaurSkull,4106,4117,-7727,-7708
